@@ -29,6 +29,7 @@ iframe{
 }
 .about p{
     width: 100%;
+    font-family: 'DynaPuff', cursive;
 }
 @media (max-width: 600px) {
     footer, main {
